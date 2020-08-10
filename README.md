@@ -1,4 +1,4 @@
-[![](https://digitalsterne.de/wp-content/uploads/2020/06/dsitetag_logo-300x300.png)](https://www.digitalsterne.de)
+TL;DR[![](https://digitalsterne.de/wp-content/uploads/2020/06/dsitetag_logo-300x300.png)](https://www.digitalsterne.de)
 
 Welcome to Digitalsterne Site Tag, **the** automated tracking extension for Google Analytics. Did you ever wonder which links and elements on your site are frequently used and which not? Well, take a seat and enjoy our out of the box soloution.
 
