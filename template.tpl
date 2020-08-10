@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Digitalsterne Site Tag Free",
+  "categories": ["ANALYTICS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Digitalsterne GmbH",
