@@ -2,6 +2,10 @@
 
 Welcome to Digitalsterne Site Tag, **the** automated tracking extension for Google Analytics. Did you ever wonder which links and elements on your site are frequently used and which not? Well, take a seat and enjoy our out of the box soloution.
 
+We also provide a permium version of this tag which includes fantastic features like SEO KPI Tracking or the Digitalsterne Reading AI module to evaluate the users engagement. This allows you to create audiences or goals when a user is reading the content on your page. For further informations get in touch with us:
+
+<a href="https://www.digitalsterne.de/">www.digitalsterne.de</a>
+
 ------------
 
 ### Features
