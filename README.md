@@ -41,6 +41,6 @@ For debugging purposes you can use these tools:
 2. Google Analytics Real Time Reports > Events
 3. Google Analytics Debbuging Extension for Google Chrome (https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna)
 
-### Conslusion
+### Conclusion
 
 We are proud to contribute to the open source family and hope that our solution will help you to enrich your data.
