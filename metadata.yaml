@@ -1,5 +1,5 @@
 homepage: "https://www.digitalsterne.de"
-documentation: "https://www.digitalsterne.de/sitetag/documentation"
+documentation: "https://github.com/Digitalsterne-GmbH/Digitalsterne-Site-Tag/blob/master/README.md"
 versions:
-  - sha: 5fb05ef74d157e618150e4f657ec9b6ec52382e7
+  - sha: 365d0fc4da1034409b11a9b77bf50105e1b2e2a9
     changeNotes: Initial release.
