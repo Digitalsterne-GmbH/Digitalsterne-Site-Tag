@@ -1,5 +1,5 @@
 homepage: "https://www.digitalsterne.de"
 documentation: "https://www.digitalsterne.de/sitetag/documentation"
 versions:
-  - sha: e263ac9247cfc31e2d8b00451b72f235767909ab
+  - sha: 5fb05ef74d157e618150e4f657ec9b6ec52382e7
     changeNotes: Initial release.
