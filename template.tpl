@@ -74,7 +74,7 @@ const injectScript = require('injectScript');
 const queryPermission = require('queryPermission');
 const callInWindow = require('callInWindow');
 const copyFromWindow = require('copyFromWindow');
-var dstagurl = 'https://cdn.jsdelivr.net/gh/Digitalsterne-GmbH/Digitalsterne-Site-Tag/dstag.js';
+var dstagurl = 'https://cdn.jsdelivr.net/gh/Digitalsterne-GmbH/Digitalsterne-Site-Tag/src/app.js';
 
 // Erstellung des UA-ID Arrays
 
