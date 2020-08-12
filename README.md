@@ -2,22 +2,33 @@
 
 Welcome to Digitalsterne Site Tag, **the** automated tracking extension for Google Analytics. Did you ever wonder which links and elements on your site are frequently used and which not? Well, take a seat and enjoy our out of the box soloution.
 
-We also provide a permium version of this tag which includes fantastic features like SEO KPI Tracking or the Digitalsterne Reading AI module to evaluate the users engagement. This allows you to create audiences or goals when a user is reading the content on your page. For further informations get in touch with us:
-
-<a href="https://www.digitalsterne.de/">www.digitalsterne.de</a>
-
 ------------
 
 ### Features
 
-- Link Tracking (internal, external or jump marks)
-- Button Tracking
-- Form Submit Event Tracking
-- Engagement Timer
-- Time to First Interaction
-- Scroll Tracking
-- Google Maps Interaction Tracking
-- Video Tracking
+|                               | Free | Premium |
+|-------------------------------|:----:|:-------:|
+| Enhanced Link Tracking        |   ✅  |    ✅    |
+| Button Tracking               |   ✅  |    ✅    |
+| Google Maps Tracking          |   ✅  |    ✅    |
+| Time to First Interaction     |   ✅  |    ✅    |
+| Form Tracking                 |   ✅  |    ✅    |
+| Multi Property Tracking       |   ✅  |    ✅    |
+| Scroll Tracking               |   ✅  |    ✅    |
+| Engagement Timer              |   ✅  |    ✅    |
+| Video Tracking                |   ✅  |    ✅    |
+| **Page Speed Tracking**           |      |    ✅    |
+| **Back to SERPS Tracking**        |      |    ✅    |
+| **Print Page Tracking**           |      |    ✅    |
+| **SEO: First Contentful Paint**   |      |    ✅    |
+| **SEO: Largest Contentful Paint** |      |    ✅    |
+| **SEO: First Input Delay**        |      |    ✅    |
+| **SEO: Cummulative Layout Shift** |      |    ✅    |
+| **Digitalsterne Reading AI**      |      |    ✅    |
+
+We also provide a permium version of this tag which includes fantastic features like SEO KPI Tracking or the Digitalsterne Reading AI module to evaluate the users engagement. This allows you to create audiences or goals when a user is reading the content on your page. For further informations get in touch with us:
+
+<a href="https://www.digitalsterne.de/">www.digitalsterne.de</a>
 
 ### Requirements
 
