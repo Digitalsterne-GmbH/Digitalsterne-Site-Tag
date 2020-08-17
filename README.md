@@ -28,7 +28,7 @@ Welcome to Digitalsterne Site Tag, **the** automated tracking extension for Goog
 
 We also provide a permium version of this tag which includes fantastic features like SEO KPI Tracking or the Digitalsterne Reading AI module to evaluate the users engagement. This allows you to create audiences or goals when a user is reading the content on your page. For further informations get in touch with us:
 
-<a href="https://www.digitalsterne.de/">www.digitalsterne.de</a>
+<a href="https://www.digitalsterne.de?utm_source=github.com&utm_campaign=sitetagfree">www.digitalsterne.de</a>
 
 ### Requirements
 
